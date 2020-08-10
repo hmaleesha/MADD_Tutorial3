@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="num_1">Number 1</string>
+    <string name="num_2">Number 2</string>
+    <string name="btn1">OK</string>
+    <string name="mul">*</string>
+    <string name="add">+</string>
+    <string name="div">/</string>
+    <string name="min">-</string>
+</resources>
